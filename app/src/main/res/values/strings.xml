@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DSS</string>
+    <string name="label_show">Show</string>
+    <string name="label_clear">Clear</string>
+</resources>
